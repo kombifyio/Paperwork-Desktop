@@ -1,0 +1,43 @@
+{
+  "schema": "paperwork-windows-release.v1",
+  "product": "paperwork-desktop",
+  "version": "0.29.8",
+  "channel": "beta",
+  "source_sha": "81b3e951842125f6b25cf7210f6d758394a7921f",
+  "build_run_id": "37779127912",
+  "unsigned": true,
+  "package_url": "https://github.com/kombifyio/Paperwork-Desktop/releases/download/windows-v0.29.8/Paperwork-0.29.8-x64.msi",
+  "assets": [
+    {
+      "name": "Paperwork-0.29.8-x64.msi",
+      "sha256": "08802122b9936d1ac5244b7d8b6e14f777e0077f287d1235a531c82f7cd17a4f",
+      "size": 101141490
+    },
+    {
+      "name": "Paperwork-0.29.8-x64.msi.sha256",
+      "sha256": "6e9ce2d8dfe7c6ce78cead641a86a3ce00825f76f2daddc0d0efdd7c0eef0e29",
+      "size": 91
+    },
+    {
+      "name": "paperwork-windows-beta.json",
+      "sha256": "3824a9bda2bdc28b006e59a6c793297e2b44df0bf5fa6de8407d8ca02edca6d0",
+      "size": 561
+    },
+    {
+      "name": "UNSIGNED-WINDOWS-RELEASE.txt",
+      "sha256": "99e73bc8214fd2ccf4f7065f5f2b956bef97b15f9e6320870bfdaee490ae0797",
+      "size": 320
+    },
+    {
+      "name": "THIRD-PARTY-NOTICES.md",
+      "sha256": "e52e4a1d9af0f0bb6f10f90b06042dc6e7cc65509d5e931975c6416b885527c6",
+      "size": 4606
+    },
+    {
+      "name": "SHA256SUMS.txt",
+      "sha256": "bff0945b34f7e7480cdb22a283e6ed3527f774b750d3ff1ba3eabe872c22cf91",
+      "size": 467
+    }
+  ],
+  "published_at": "2026-10-08T13:03:25.926Z"
+}
