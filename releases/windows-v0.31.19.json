@@ -1,0 +1,47 @@
+{
+  "schema": "kombify.windows-binary-release.v1",
+  "product_id": "paperwork",
+  "artifact_id": "windows-client",
+  "app_id": "paperwork",
+  "variant": "desktop",
+  "channel": "beta",
+  "version": "0.31.19",
+  "source_sha": "ca5817fabd12ee68c52d75421d999d3c6cc95213",
+  "plan_digest": "sha256:ebb4ca243de5cefedb8f3f8a458e634dfb2c6b1baea05296d0c70be52cee2acd",
+  "release_id": "paperwork@0.31.19+ca5817fabd12",
+  "repository_id": 1404975372,
+  "assets": [
+    {
+      "name": "Paperwork-0.31.19-x64.msi",
+      "sha256": "ccb60f3e32eb50884a62a5351b96f2abd00acf2eff1f8c4ed68fee871d757807",
+      "size": 104145937
+    },
+    {
+      "name": "Paperwork-0.31.19-x64.msi.sha256",
+      "sha256": "e33cc5420d71007a0738a8965d44063d719994ba9e3add6d33821110fe60d802",
+      "size": 92
+    },
+    {
+      "name": "paperwork-windows-beta.json",
+      "sha256": "04474bdfc42057a849684a64bba597d5d0cc564df71e831a102f576f00b30227",
+      "size": 564
+    },
+    {
+      "name": "SHA256SUMS.txt",
+      "sha256": "9256db6b89651ca2e792b27c88e4993b480144db7157dd4e577f27d090b98563",
+      "size": 469
+    },
+    {
+      "name": "THIRD-PARTY-NOTICES.md",
+      "sha256": "6d866513a3c1095f92c755b4f291648d399844261f2a6f9aa6466765d648358c",
+      "size": 6380
+    },
+    {
+      "name": "UNSIGNED-WINDOWS-RELEASE.txt",
+      "sha256": "4e691460fc361d78522e6c09e7011402788388bd8f2c6a9dbe40f7ed57fb4f1f",
+      "size": 321
+    }
+  ],
+  "publication_run_id": "39406754797",
+  "build_artifact_digest": "sha256:13864d06fc25c756ba7b1ffe1f186603b20b52347c7c36838aa612373daf4221"
+}
